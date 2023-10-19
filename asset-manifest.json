@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stock-app/static/css/main.fedc5e85.css",
+    "main.js": "/stock-app/static/js/main.cfc437ff.js",
+    "static/media/auth.svg": "/stock-app/static/media/auth.eebf37999ce8a048847f3182de8d255a.svg",
+    "static/media/MARKER.png": "/stock-app/static/media/MARKER.5f52558189f2c9aec4eb.png",
+    "index.html": "/stock-app/index.html",
+    "main.fedc5e85.css.map": "/stock-app/static/css/main.fedc5e85.css.map",
+    "main.cfc437ff.js.map": "/stock-app/static/js/main.cfc437ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fedc5e85.css",
+    "static/js/main.cfc437ff.js"
+  ]
+}
